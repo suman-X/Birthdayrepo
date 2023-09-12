@@ -1,4 +1,15 @@
-h2{
-    color: aqua;
-    background-color: black;
+body {
+  background-color: rgb(69, 234, 234);
+}
+.color {
+  color: red;
+}
+#date {
+  color: rgb(165, 11, 83);
+}
+span {
+  color: blue;
+}
+.cl1 {
+  color: blueviolet;
 }
